@@ -23,6 +23,5 @@ public class Dialog
     public Sprite cuadrodialogo;
     public Sprite personaje;
     public Sprite fondo;
-    public Button botoncerrar;
-
+   
 }
