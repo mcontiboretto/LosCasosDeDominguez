@@ -312,6 +312,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2372332791629160851, guid: 74f5e89274628aa46a8c7647e7fc285d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6343524429980549311, guid: 74f5e89274628aa46a8c7647e7fc285d, type: 3}
       propertyPath: m_Name
       value: PanelDIalogo
@@ -501,6 +505,7 @@ MonoBehaviour:
   textoNombre: {fileID: 1493524527}
   cajaTexto: {fileID: 1977153128}
   imgPersonaje: {fileID: 1550064051}
+  velocidadTexto: 0.05
 --- !u!4 &519571185
 Transform:
   m_ObjectHideFlags: 0
