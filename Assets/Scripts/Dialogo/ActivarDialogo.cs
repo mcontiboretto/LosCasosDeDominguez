@@ -10,7 +10,7 @@ public class ActivarDialogo : MonoBehaviour
 
 void Update()
 {
-    // 2. Usa esta nueva sintaxis (ejemplo con la tecla 'E')
+    // activar el dialogo con la i de interrogar :)
     if (Keyboard.current.iKey.wasPressedThisFrame)
     {
             DialogoManager.Instance.IniciarDialogo(conversacion);
@@ -21,9 +21,4 @@ void Update()
     }
 
 
-   // public void OnMouseDown()
-    //{
-       // DialogoManager.Instance.IniciarDialogo(conversacion);
-       // Debug.Log("Dialogo activado");
-    //}
 }

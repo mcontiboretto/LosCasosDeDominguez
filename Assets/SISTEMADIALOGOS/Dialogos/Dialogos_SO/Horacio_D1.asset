@@ -13,18 +13,18 @@ MonoBehaviour:
   m_Name: Horacio_D1
   m_EditorClassIdentifier: Assembly-CSharp::DialogoSistema
   dialogos:
-  - dialogo: "Otra noche lluviosa en esta ciudad humeda y melanc\xF3lica..."
+  - dialogo: Otra tarde lluviosa y fria...
     nombre: Horacio Dominguez
     cuadrodialogo: {fileID: 5873544265073860004, guid: e87ff4b4b43252d41a33b56c9a3e25a9, type: 3}
     personaje: {fileID: -4301562977008557405, guid: 066074642f61c0d44a7539cd288a18ca, type: 3}
-    fondo: {fileID: -3059048572197289564, guid: b0178565795f6b54fb4d0215cae65567, type: 3}
+    fondo: {fileID: 9001398115994798786, guid: b63f05c6376b3114cad32ac8fc7acc84, type: 3}
   - dialogo: "...Buenos Aires siempre es tan cruel en oto\xF1o..."
-    nombre: Horacio
+    nombre: Horacio Dominguez
     cuadrodialogo: {fileID: 5873544265073860004, guid: e87ff4b4b43252d41a33b56c9a3e25a9, type: 3}
     personaje: {fileID: -4301562977008557405, guid: 066074642f61c0d44a7539cd288a18ca, type: 3}
-    fondo: {fileID: -3059048572197289564, guid: b0178565795f6b54fb4d0215cae65567, type: 3}
-  - dialogo: ...Me pregunto con que me sorprendera la ciudad de la furia hoy...
-    nombre: Horacio
+    fondo: {fileID: 9001398115994798786, guid: b63f05c6376b3114cad32ac8fc7acc84, type: 3}
+  - dialogo: "...Me pregunto con que me sorprender\xE1 la Paris de Sudamerica hoy..."
+    nombre: Horacio Dominguez
     cuadrodialogo: {fileID: 5873544265073860004, guid: e87ff4b4b43252d41a33b56c9a3e25a9, type: 3}
     personaje: {fileID: -4301562977008557405, guid: 066074642f61c0d44a7539cd288a18ca, type: 3}
-    fondo: {fileID: -3059048572197289564, guid: b0178565795f6b54fb4d0215cae65567, type: 3}
+    fondo: {fileID: 9001398115994798786, guid: b63f05c6376b3114cad32ac8fc7acc84, type: 3}
